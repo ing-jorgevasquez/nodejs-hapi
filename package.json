@@ -28,7 +28,7 @@
     "@hapi/vision": "^5.5.2",
     "bcrypt": "^5.0.0",
     "blankie": "^4.1.1",
-    "firebase-admin": "^8.1.0",
+    "firebase-admin": "^11.4.1",
     "handlebars": "^4.5.3",
     "hapi-dev-errors": "^3.2.5",
     "uuid": "^3.3.2"
